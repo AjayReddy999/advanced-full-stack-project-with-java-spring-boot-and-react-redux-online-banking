@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and is maintained by Chinmaya Sri Rama Seshu Pasupuleti.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -68,12 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-## Maintainer
-
-Chinmaya Sri Rama Seshu Pasupuleti
-Data Engineer with 4+ years of experience building enterprise data pipelines, cloud-based ETL/ELT workflows, and analytical data platforms. Specialist in Python, SQL, and distributed data processing.
-
-- GitHub: https://github.com/Ramaseshu0
-- LinkedIn: https://www.linkedin.com/in/rama-seshu/
-- Email: pramaseshu@outlook.com
